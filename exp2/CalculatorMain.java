@@ -25,7 +25,7 @@ System.out.println("\n----------------------------------------------------------
         int a = sc.nextInt();
         System.out.print("Enter the second integer number for addition: ");
         int b = sc.nextInt();
-        System.out.println("Addition of integers is: \t" + C1.add(a,b));
+        System.out.println("Addition of integers is: " + C1.add(a,b));
 
         System.out.println("\n-----------------------------------------------------------------");
         System.out.print("\nEnter the first floating point number for addition: ");
